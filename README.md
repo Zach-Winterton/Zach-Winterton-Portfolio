@@ -20,9 +20,9 @@ Number and name of feature: Feature #1: Filter by Number of Horns
 
 Estimate of time needed to complete: 4 hours
 
-Start time: 1:30pm MNT
+Start time: 2:00pm MNT
 
-Finish time: 
+Finish time: 9:30pm MNT took paused for three hours for dinner and relaxation
 
-Actual time needed to complete:
+Actual time needed to complete: 4 hours and 30 minutes give or take
 
